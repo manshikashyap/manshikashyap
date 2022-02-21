@@ -54,5 +54,5 @@
 
 ## Watch my contributions get eaten by a snake 🐍
 
-![snake gif](https://github.com/manshikashyap/blob/output/github-contribution-grid-snake.gif)
+
 
