@@ -1,6 +1,6 @@
 ### Hi, I'm Manshi 👋
 
-[![Linkedin: Riya](https://img.shields.io/badge/-MK-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manshi-9b052b201)](https://www.linkedin.com/in/manshi-9b052b201)
+[![Linkedin: Riya](https://img.shields.io/badge/-Manshi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manshi-9b052b201)](https://www.linkedin.com/in/manshi-9b052b201)
 ![GitHub followers](https://img.shields.io/github/followers/manshikashyap?label=Follow&style=social)
 
 
